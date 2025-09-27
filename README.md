@@ -1,1 +1,3 @@
-# NewRepo3
+# Readme
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/cengame/Variaveis-Complexas)
